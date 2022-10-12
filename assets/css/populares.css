@@ -1,8 +1,8 @@
 .populares {
-    padding: 3rem 2rem;
+    padding: 3rem 0;
 }
 
-.populares__conteudo{
+.populares__conteudo {
     display: flex;
     flex-wrap: wrap;
     grid-area: card-conteudo;
@@ -16,9 +16,6 @@
         "card-imagem"
         "card-corpo";
     grid-template-columns: 100%;
-    grid-template-rows: 150px auto;
-    margin-right: 1rem;
-    width: calc(20% - 1rem);
 } 
 
 .populares__card:last-child {
