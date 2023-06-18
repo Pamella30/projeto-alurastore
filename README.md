@@ -1,9 +1,10 @@
-| :placard: Vitrine.Dev |     |
+| 🚀 Vitrine.Dev | | 
 | -------------  | --- |
-| :sparkles: Nome        | **AluraStore**
+| 📌 Projeto | **AluraStore**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         | https://github.com/Pamella30/projeto-alurastore
-| :fire: Curso    | https://cursos.alura.com.br/course/css-grid-layout
+| :globe_with_meridians: URL |https://projeto-alurastore.vercel.app/
+| :file_folder: Arquivos |  https://github.com/Pamella30/projeto-alurastore
+| :computer: Curso | https://cursos.alura.com.br/course/css-grid-layout
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/Pamella30/projeto-alurastore/main/alurastore.png#vitrinedev)
